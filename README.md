@@ -1,6 +1,6 @@
 # Restless
 
-TODO: Write a gem description
+The Restless gem is coming soon.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+If you're feeling restless, you can go for a walk.
 
 ## Contributing
 

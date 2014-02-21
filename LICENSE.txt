@@ -1,4 +1,4 @@
-Copyright (c) 2014 Matt Connolly
+Copyright (c) 2014 Matt Connolly & Nigel Rausch
 
 MIT License
 

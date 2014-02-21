@@ -6,10 +6,10 @@ require 'restless/version'
 Gem::Specification.new do |spec|
   spec.name          = "restless"
   spec.version       = Restless::VERSION
-  spec.authors       = ["Matt Connolly"]
-  spec.email         = ["matt.connolly@me.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.authors       = ["Matt Connolly", "Nigel Rausch"]
+  spec.email         = ["matt.connolly@me.com", "nigelr@brisbanerails.com"]
+  spec.description   = %q{The restless gem is coming soon!}
+  spec.summary       = %q{The restless gem is coming soon!}
   spec.homepage      = ""
   spec.license       = "MIT"
 
